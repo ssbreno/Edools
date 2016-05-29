@@ -1,5 +1,3 @@
-# Edools
-
 # Breno Sobral 
 
 Representacao de Conceitos em C
